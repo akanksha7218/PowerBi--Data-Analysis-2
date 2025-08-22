@@ -98,7 +98,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 
 ### 3. 🌎 Age Distribution Across States
 
-![AgeCategory Distribution](images/state_by_agecategory.png)
+![AgeCategory Distribution](https://github.com/akanksha7218/PowerBi--Data-Analysis-2/blob/main/B2%203.png)
 
 - Even distribution across age categories from **18 to 80+** years.
   
