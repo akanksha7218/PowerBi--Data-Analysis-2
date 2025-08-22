@@ -108,7 +108,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 
 ### 4. 🍻 Alcohol Consumption by Sex
 
-![Alcohol by Sex](images/alcohol_by_sex.png)
+![Alcohol by Sex](https://github.com/akanksha7218/PowerBi--Data-Analysis-2/blob/main/B2%204.png)
 
 - **Female**: `235.89K` (**52.99%**)
 - **Male**: `209.24K` (**47.01%**)
