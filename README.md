@@ -130,7 +130,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 
 ### 6. 🧬 Kidney Disease by State
 
-![Kidney Disease by State](images/kidney_disease_by_state.png)
+![Kidney Disease by State](
 
 - Top states with highest counts:
   - Washington
