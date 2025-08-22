@@ -130,7 +130,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 
 ### 6. 🧬 Kidney Disease by State
 
-![Kidney Disease by State](
+![Kidney Disease by State](https://github.com/akanksha7218/PowerBi--Data-Analysis-2/blob/main/B2%206.png)
 
 - Top states with highest counts:
   - Washington
