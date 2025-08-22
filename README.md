@@ -119,7 +119,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 
 ### 5. 🍷 Alcohol Consumption by Age
 
-![Alcohol by Age](images/alcohol_by_age.png)
+![Alcohol by Age](https://github.com/akanksha7218/PowerBi--Data-Analysis-2/blob/main/B2%205.png)
 
 - Highest drinkers are aged **60–69**, followed by **70–74** and **55–59**.
 - Also notable: **50–54** and **80+**
