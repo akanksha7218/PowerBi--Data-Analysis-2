@@ -69,7 +69,94 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 - **Data Modeling** – Relationships across survey data  
 - **ETL** – Data cleaning and transformation for analysis  
 
+
 ---
+## 📈 Summary of Visual Insights
+
+### 1. 🚬 Smoker Status by Sex
+
+![Smoker Status](images/smoker_status.png)
+
+- **Never Smokers**: `245.96K` individuals (**60.04%**)
+- **Former Smokers**: `113.77K` individuals (**27.77%**)
+- **Current Smokers**: `~36K` (**8.79%**) + a small segment (likely also current smokers)
+
+> ✅ The majority have **never smoked** or are **former smokers**, showing a healthy trend.
+
+---
+
+### 2. 🩺 Diabetes Prevalence by State
+
+![Had Diabetes by State](images/diabetes_by_state.png)
+
+- **Washington** has the highest number of diabetic cases.
+- Other top states include **Nebraska**, **Minnesota**, and **Ohio**.
+  
+> ⚠️ Indicates a need for targeted health initiatives in high-prevalence states.
+
+---
+
+### 3. 🌎 Age Distribution Across States
+
+![AgeCategory Distribution](images/state_by_agecategory.png)
+
+- Even distribution across age categories from **18 to 80+** years.
+  
+> 📊 The dataset is **balanced demographically** in terms of age.
+
+---
+
+### 4. 🍻 Alcohol Consumption by Sex
+
+![Alcohol by Sex](images/alcohol_by_sex.png)
+
+- **Female**: `235.89K` (**52.99%**)
+- **Male**: `209.24K` (**47.01%**)
+
+> 👩 Women slightly outnumber men in alcohol consumption.
+
+---
+
+### 5. 🍷 Alcohol Consumption by Age
+
+![Alcohol by Age](images/alcohol_by_age.png)
+
+- Highest drinkers are aged **60–69**, followed by **70–74** and **55–59**.
+- Also notable: **50–54** and **80+**
+
+> 🧓 Alcohol consumption is **most prevalent among older adults**.
+
+---
+
+### 6. 🧬 Kidney Disease by State
+
+![Kidney Disease by State](images/kidney_disease_by_state.png)
+
+- Top states with highest counts:
+  - Washington
+  - New York
+  - Ohio
+  - Minnesota
+  - Maryland
+
+> 🩺 These states may need more **kidney health screening** programs.
+
+---
+
+### 7. 🔢 Total Alcohol Drinkers
+
+![Total Alcohol Drinkers](images/total_alcohol_drinkers.png)
+
+- **Total**: `445.13K` individuals report alcohol consumption.
+
+---
+
+## 📌 Key Takeaways
+
+- **Smoking** is declining.
+- **Alcohol** use is common across all age groups, particularly older adults.
+- **Chronic conditions** like diabetes and kidney disease are concentrated in specific states.
+- **Age distribution** in the data is consistent, ensuring analytical balance.
 
 
 
