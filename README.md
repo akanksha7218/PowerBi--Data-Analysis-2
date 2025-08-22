@@ -145,7 +145,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 
 ### 7. 🔢 Total Alcohol Drinkers
 
-![Total Alcohol Drinkers](images/total_alcohol_drinkers.png)
+![Total Alcohol Drinkers](https://github.com/akanksha7218/PowerBi--Data-Analysis-2/blob/main/B2%207.png)
 
 - **Total**: `445.13K` individuals report alcohol consumption.
 
