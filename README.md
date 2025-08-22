@@ -59,7 +59,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 ---
 
 ## 📊 Dashboard Screenshot
-![Heart Disease Indicators Dashboard](PowerBi%20Project%202.jpg)
+![Heart Disease Indicators Dashboar](PowerBi%20Project%202.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 
 ### 1. 🚬 Smoker Status by Sex
 
-![Smoker Status](images/smoker_status.png)
+![Smoker Status](https://github.com/akanksha7218/PowerBi--Data-Analysis-2/blob/main/B2%201.png)
 
 - **Never Smokers**: `245.96K` individuals (**60.04%**)
 - **Former Smokers**: `113.77K` individuals (**27.77%**)
