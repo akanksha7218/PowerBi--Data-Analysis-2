@@ -87,7 +87,7 @@ By using **interactive visualizations**, this dashboard helps in identifying **h
 
 ### 2. 🩺 Diabetes Prevalence by State
 
-![Had Diabetes by State](images/diabetes_by_state.png)
+![Had Diabetes by State](https://github.com/akanksha7218/PowerBi--Data-Analysis-2/blob/main/B2%202.png)
 
 - **Washington** has the highest number of diabetic cases.
 - Other top states include **Nebraska**, **Minnesota**, and **Ohio**.
